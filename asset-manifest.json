@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/raikiri/static/css/main.3e69ea13.css",
+    "main.js": "/raikiri/static/js/main.d8775e74.js",
+    "static/css/443.983617fa.chunk.css": "/raikiri/static/css/443.983617fa.chunk.css",
+    "static/js/443.99b8283e.chunk.js": "/raikiri/static/js/443.99b8283e.chunk.js",
+    "static/css/401.11274250.chunk.css": "/raikiri/static/css/401.11274250.chunk.css",
+    "static/js/401.984d48bf.chunk.js": "/raikiri/static/js/401.984d48bf.chunk.js",
+    "static/media/preloader.svg": "/raikiri/static/media/preloader.67b2533e155f9d390c5e76e7f7cbf638.svg",
+    "index.html": "/raikiri/index.html",
+    "main.3e69ea13.css.map": "/raikiri/static/css/main.3e69ea13.css.map",
+    "main.d8775e74.js.map": "/raikiri/static/js/main.d8775e74.js.map",
+    "443.983617fa.chunk.css.map": "/raikiri/static/css/443.983617fa.chunk.css.map",
+    "443.99b8283e.chunk.js.map": "/raikiri/static/js/443.99b8283e.chunk.js.map",
+    "401.11274250.chunk.css.map": "/raikiri/static/css/401.11274250.chunk.css.map",
+    "401.984d48bf.chunk.js.map": "/raikiri/static/js/401.984d48bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e69ea13.css",
+    "static/js/main.d8775e74.js"
+  ]
+}
